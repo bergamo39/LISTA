@@ -91,8 +91,23 @@ https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=????????
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Gallo
+https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w483943566.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV IBT
+https://stmv2.voxtvhd.com.br/tvibtm/tvibtm/playlist.m3u8?hls_ctx=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Quixeramobim TV
+https://srv4.zcast.com.br/flavio2481/flavio2481/playlist.m3u8?hls_ctx=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Goitaca
+https://video01.kshost.com.br:4443/david7639/david7639/chunklist_w1685382802.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Filmes e Series",BangBang
 https://abre.ai/lSy5
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",MBC Brasil
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w1864711596.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Filmes e Series",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
@@ -209,7 +224,7 @@ https://video02.logicahost.com.br/tvone/tvone/chunklist_w466408316.m3u8
 https://stmv.webtvninjas.com.br/mailson6054/mailson6054/chunklist_w1180877401.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV WEB SÃO LUIS CANOAS RS
-https://stmv1.samcast.com.br/enei9364/enei9364/chunklist_w427763806.m3u8
+https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV CHANNEL NETWORK
 https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w1522789410.m3u8
@@ -308,7 +323,7 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1093748094.m3u8
 https://stmv8.samcast.com.br/redeclonetv/redeclonetv/chunklist_w608380752.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/xtremenovo.png" group-title="Filmes e Series",XTreme TV
-https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w1900108043.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Filmes e Series",Soul Cine Clube Brasil 
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
