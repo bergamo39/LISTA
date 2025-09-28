@@ -76,6 +76,9 @@ https://video04.logicahost.com.br/isonata/isonata/chunklist_w1890548300.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xeHjByj.jpg" group-title="Filmes e Series",Canal BSTV
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",BS-TV
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w986997454.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F8ySaaL.jpg" group-title="Filmes e Series",ISTV
 https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w519697988.m3u8
 
@@ -87,6 +90,9 @@ https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chun
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCPP5QH.png" group-title="Filmes e Series",GLN TV
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Seven Tv
+https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
@@ -120,6 +126,18 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV NBT
 https://isaocorp.cloudecast.com/nbt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Classique TV
+https://stmv2.painelvideocast.com.br/classique/classique/chunklist_w2134896818.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Classique TV Series
+https://stmv2.painelvideocast.com.br/tvseries/tvseries/chunklist_w2051354015.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",MultiCanais
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w1609896093.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Gospel Movies Television
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RWTV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/chunklist.m3u8
@@ -205,9 +223,6 @@ https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",ORTV WEB
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Seven Tv
-https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FilmRise
 https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/4fcab18e-58ff-4440-80c1-a832bf35a661/0.m3u8
 
@@ -228,9 +243,6 @@ https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV CHANNEL NETWORK
 https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w1522789410.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",BS-TV
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w986997454.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RCTV Brasil
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w1032772077.m3u8
@@ -314,7 +326,7 @@ https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist_w1532010601.
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x47gbfK.png" group-title="Filmes e Series",Channel 1
-https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
+https://stmv2.painelvideocast.com.br/movies1/movies1/chunklist_w974889218.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Tv Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1093748094.m3u8
@@ -864,7 +876,8 @@ http://24hrs.homelinux.com/24H-avataralendadeaang/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Avatar Korra
 http://24hrs.homelinux.com/24H-avataralendadekorra/video.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="Desenhos e Animes",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Desenhos e Animes",Kanade Brasil
 https://backend.energeek.cl/webtv/kanadebr/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
