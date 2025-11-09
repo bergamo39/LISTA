@@ -3,12 +3,6 @@
 ############################################################################ Canais Pagos
 
 
-#EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Filmes e Series",SPACE HD
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62252
-
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Filmes e Series",TNT HD
-http://79.127.238.228:14629/
-
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Filmes e Series",TNT Séries HD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/164958
 
@@ -84,7 +78,7 @@ https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w519697988.m3u8
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OyYuvG.jpg" group-title="Filmes e Series",Tv Carioca Internacional
-https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chunklist_w107129402.m3u8
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w1322773555.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCPP5QH.png" group-title="Filmes e Series",GLN TV
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=????????
@@ -100,9 +94,6 @@ https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w483943566.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV IBT
 https://stmv2.voxtvhd.com.br/tvibtm/tvibtm/playlist.m3u8?hls_ctx=????????
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Quixeramobim TV
-https://srv4.zcast.com.br/flavio2481/flavio2481/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Goitaca
 https://video01.kshost.com.br:4443/david7639/david7639/chunklist_w1685382802.m3u8
@@ -191,15 +182,6 @@ https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Marcheti
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8?hls_ctx=????????
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TOP Demais TV
-https://stmv.webtvninjas.com.br/topdemais5565/topdemais5565/chunklist_w1089834372.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Brasil Hits
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w351627362.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Marrecas
-https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/chunklist_w1699963731.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV GRU WEB
 https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8?hls_ctx=????????
 
@@ -210,7 +192,7 @@ https://stmv1.liveplushd.com.br/jovemtotaltv/jovemtotaltv/chunklist_w614126442.m
 https://video01.logicahost.com.br/canalaugetv/canalaugetv/chunklist_w1384993038.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede Fenix
-https://video10.logicahost.com.br/redefenix/redefenix/chunklist_w658822559.m3u8
+https://video08.logicahost.com.br/redefenix/redefenix/chunklist_w17229357.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Pompeia
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8?hls_ctx=936p5o01
@@ -220,9 +202,6 @@ https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",ORTV WEB
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FilmRise
-https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/4fcab18e-58ff-4440-80c1-a832bf35a661/0.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
@@ -248,14 +227,8 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w1032772077.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",REVIVA TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w1016207072.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",MultiMix
-https://stmv.webtvninjas.com.br/multimix/multimix/chunklist_w65799333.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Tv San Jones
 https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w2032891439.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Tv Metropolitana
-https://stmv5.samcast.com.br/claudio8701/claudio8701/chunklist_w709972067.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cindie Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352/variant/22099961.m3u8
@@ -267,7 +240,7 @@ https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8?hls_ctx
 https://stmv1.conectastreaming.com/tvpa4741/tvpa4741/chunklist_w1736119036.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",ABC Brasil
-https://stmv1.srvstm.com/abc7891/abc7891/chunklist_w1396892138.m3u8
+https://stmv1.srvstm.com/abc7891/abc7891/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Lucas TV
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
@@ -288,10 +261,10 @@ https://5c483b9d1019c.streamlock.net/redetvsul/redetvsul/chunklist_w913576482.m3
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1752809294.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV PBC
-https://stmv2.samcast.com.br/adao6116/adao6116/chunklist_w143013556.m3u8
+https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ih9XYgr.jpg" group-title="Filmes e Series",Oriundi TV
-https://stmv5.samcast.com.br/oriunditv/oriunditv/chunklist_w595362024.m3u8
+https://stmv5.samcast.com.br/oriunditv/oriunditv/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZVFv2Rr.jpg" group-title="Filmes e Series",TV Diversidade
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12928/playlist/chunklist.m3u8
@@ -303,7 +276,7 @@ https://video01.kshost.com.br/manoel2072/manoel2072/chunklist_w917136420.m3u8
 https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w544271297.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KkeCK68.jpg" group-title="Filmes e Series",Vivax TV
-https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w344338346.m3u8
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wHmvKtm.jpg" group-title="Filmes e Series",Rede UTV
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunklist_w1369195140.m3u8
@@ -330,7 +303,7 @@ https://stmv2.painelvideocast.com.br/movies1/movies1/chunklist_w974889218.m3u8
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1093748094.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede Clouding
-https://stmv8.samcast.com.br/redeclonetv/redeclonetv/chunklist_w608380752.m3u8
+https://stmv.webtvninjas.com.br/abner5597/abner5597/chunklist_w810905734.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/xtremenovo.png" group-title="Filmes e Series",XTreme TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w1900108043.m3u8
@@ -352,6 +325,9 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="Filmes e Series",Sony One Emocoes
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Quixeramobim TV
+https://srv4.zcast.com.br/flavio2481/flavio2481/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://seeklogo.com/images/P/pluto-tv-logo-1914C10887-seeklogo.com.png" group-title="Filmes e Series",Pluto TV Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -440,80 +416,25 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="Filmes e Series",Clube do Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes e Series",🔴Chapolin Colorado 
-http://15.235.9.200:14844/
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes e Series",🔴Chapolin Colorado 24h
-http://24hrs.homelinux.com/24H-chapolin1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Filmes e Series",🔴Chaves 24h
-http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴Drake e Josh
-http://24hrs.homelinux.com/24H-drakeejosh/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴Friends
-http://24hrs.homelinux.com/24H-friends/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴Um Maluco no Pedaço 24h
-http://24hrs.homelinux.com/24H-ummaluconopedaco/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴Os Trapalhões 24h
-http://24hrs.homelinux.com/24H-ostrapalhoes/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴João Cleber
-http://24hrs.homelinux.com/24H-joaokleber/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴2 Homens e Meio 24h
-http://24hrs.homelinux.com/24H-2HomensEmeio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/a0f3ff9fb91396e8569c1c41bc9c96d6ec90294ad5906ece3364014d03469252.jpg" group-title="Filmes e Series",🔴Smallville - As Aventuras do Superboy
+https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/chunklist_w1699963731.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴2 Homens e Meio 2
 http://15.235.9.200:14872/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴Todo Mundo Odeia O Cris 24h
-http://24hrs.homelinux.com/24H-todomundoodeiaocris/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴Pegadinhas Silvio Santos 24h
- http://24hrs.homelinux.com/24H-pegadihassilviosantos.txt/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴As Visões da Raven 24h
-http://24hrs.homelinux.com/24H-asvisoesdaraven/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴A Grande Família 24h
-http://24hrs.homelinux.com/24H-O.Album.da.Grande.Familia.S01/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴Escolinha Raimundo 24h
-http://24hrs.homelinux.com/24H-escolinhaold/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴Escolinha Raimundo 2
 http://15.235.9.200:14904/
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴Eu a Patroa e as Crianças 24h
-http://24hrs.homelinux.com/24H-euapatroaeascriancas7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴Eu a Patroa e as Crianças 2
 http://15.235.9.200:14908/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Filmes e Series",🔴Tô d Graça 24h
-http://24hrs.homelinux.com/24H-todegraca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Filmes e Series",🔴Jaspion 24h
-http://24hrs.homelinux.com/24H-jaspion/playlist.m3u8
 
 
 
 
 ############################################################################ Variedades
 
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="E!" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Variedades",E!
-http://15.235.50.112:14186/
-
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Variedades",Multishow HD 
-http://15.235.11.7:14146/MultiShowSD
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/jcgv2zs.png" group-title="Variedades",Comedy Central HD
-http://15.235.11.7:14156/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2F9asSD.png" group-title="Variedades",TLC HD
 http://79.127.238.228:14433/TLChd
@@ -524,32 +445,14 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lFkmVqX.png" group-title="Variedades",Hallo! Doc.
 https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
 
-#EXTINF:-1 tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Variedades",ID SD
-http://15.235.50.112:14115/IDsd
-
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Variedades",Discovery World HD 
-http://15.235.50.112:14112/
-
 #EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Variedades",Discovery Channel HD
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62215
-
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Variedades",Discovery Science HD 
-http://15.235.50.112:14106/
-
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Variedades",History HD²
-http://15.235.11.7:14132/HISTORYSD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Variedades",History 2 HD
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/337851
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Variedades",HGTV HD
-http://15.235.11.7:14144/
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Variedades",Animal Planet HD
 https://cr7v.short.gy/manoiTVOP5/anim/75991634025/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Variedades",Revry Brasil
-https://revry-brazil.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hN8f72L.png" group-title="Variedades",WhE Play 
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Offgrid/Whe_Play_BR/Whe_Play.m3u8
