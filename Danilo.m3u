@@ -86,6 +86,12 @@ https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=????????
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Seven Tv
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mr.Bean
+https://amg00627-banijay-amg00627c48-plex-us-8097.playouts.now.amagi.tv/playlist1080-p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FilmRise Series
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/86f21902-e039-47dd-aefd-6ee80851cdca/5.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
