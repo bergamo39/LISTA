@@ -68,9 +68,6 @@ https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lPWU25z.jpg" group-title="Filmes e Series",TV Sonata
 https://video04.logicahost.com.br/isonata/isonata/chunklist_w1890548300.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xeHjByj.jpg" group-title="Filmes e Series",Canal BSTV
-https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",BS-TV
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w986997454.m3u8
 
@@ -85,6 +82,9 @@ https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/ch
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCPP5QH.png" group-title="Filmes e Series",GLN TV
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=????????
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnqQNsn.jpg" group-title="Filmes e Series",TV Clube Web
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Seven Tv
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
@@ -113,14 +113,8 @@ https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc/index
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Adrenalina Pura TV Halloween
 https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Imperial TV
-https://acesso.ecast.site:3887/live/imperiallive.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series", TV Mon HD
 https://video10.logicahost.com.br/tvmon/tvmon/chunklist_w1077510511.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Clube SJN
-https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w1515400594.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Web TV Amparo
 https://stmv6.voxtvhd.com.br/lupercio5913/lupercio5913/playlist.m3u8?hls_ctx=????????
@@ -332,9 +326,6 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunklist_w1369195140
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e47mO6y.jpg" group-title="Filmes e Series",Rede NGT
 https://isaocorp.cloudecast.com/ngt/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnqQNsn.jpg" group-title="Filmes e Series",TV Clube Web
-https://5c483b9d1019c.streamlock.net/8186/8186/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede Manchete
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
@@ -379,6 +370,9 @@ https://srv4.zcast.com.br/flavio2481/flavio2481/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Acesso Brasil TV
 https://cdn.live.br1.jmvstream.com/webtv/tvacessochannel/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeHjByj.jpg" group-title="Filmes e Series",Canal BSTV
+https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://seeklogo.com/images/P/pluto-tv-logo-1914C10887-seeklogo.com.png" group-title="Filmes e Series",Pluto TV Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -683,84 +677,18 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 ####################################################################################  Desenhos e Animes 
 
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Cavaleiros Zodiaco 24h
-http://24hrs.homelinux.com/24H-cavaleiros/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Mickey e Donald 24h
-http://24hrs.homelinux.com/24H-Mickey.e.Donald.S01/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Corrida Maluca 24h
-http://24hrs.homelinux.com/24H-Corrida.Maluca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Super Mario Bross 24h
-http://24hrs.homelinux.com/24H-supermario/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Patolino 24h
-http://24hrs.homelinux.com/24H-patolino/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://bbc.brightcove.services/static/1627877587-5c22b1548cfe6e733e8c31f5a1bd68dd9ceb57f3.jpg" group-title="Desenhos e Animes",🔴Mr Bean 24h
 https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/cb7c3e167b766f8f9e993563d7f940aad25565d05d6280636ea0019f7c97155dd1bdf3c9bc1dba6c7ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee2545bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c578424a31d9cc0f0dfce188a83987ea856e4644401277ecacd7dc19c09e588cb306dc9292d74fd348cd2fb74f38fe73d217ecabdad9d77fe09c78557f90a558821e88100ade811c73aa8f45aa8ed9ad2475330a7c5210d4f076213eb895011bc73e9b7aba91bed4544750a25fa5da24b18399fbdfb1591cf1adcd149e0e53e4d6890c302f3f7c319f1ba515ebf736abec76e7cac5b922ca2cc2c839768c920de79e7fd122e637d45b8965afe4bb8343f4f409c8952d81254ec95dbc3973932c464144dfb20f76f453d9c7a3c27a51af0946a38d26612d36174bb7925904ef98f29f78cd2f1496ee6898911a92fa79e22e6db2ee52d305009b6b20b5a46477299ae45052276ce40ab8299b839594ebcb99dbef3523e062b1e1d59d8b5a923cdfcb5437721c85d226f630357c754a40ef13409517e874ea9ef6312a2092e2aeaa2452d796484c7bc84c79b8a73bc71d7c0ea2a6d5c7d66ae3811297ed9d4d409e559ab1fffb73eaa023ad7dee1988aae0bf7f9701e8354942f/90/1920x1080_6046040/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Lady Bug 24h
-http://24hrs.homelinux.com/24H-ladybug/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Tres Espias Demais 
-http://24hrs.homelinux.com/24H-tresespias/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Luluzinha 24h
-http://24hrs.homelinux.com/24H-luluzinha/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Thundercats 24h
-http://24hrs.homelinux.com/24H-thundercats/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴O Fantastico Mundo de Bobby 24h
-http://24hrs.homelinux.com/24H-ofantasticomundodeboby/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Tom & Jerry 24h
-http://24hrs.homelinux.com/24H-tom-e-jerry/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Scoobdoo 24h
-http://24hrs.homelinux.com/24H-scoobdoo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Popeye 24h
-http://24hrs.homelinux.com/24H-Popeye.S01/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Os Simpsons 24h
-http://24hrs.homelinux.com/24H-ossimpsons/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Futurama 24h
-http://24hrs.homelinux.com/24H-futurama/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴South Park 24h
-http://24hrs.homelinux.com/24H-southpark/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Show da Luna 24h
-http://24hrs.homelinux.com/24H-showdaluna/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴PicaPau 24h
-http://24hrs.homelinux.com/24H-picapau/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Os Flintstones 24h
-http://24hrs.homelinux.com/24H-osflistony/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yRijjtG.jpg" group-title="Desenhos e Animes",🔴Os Jetsons 24h
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Avatar Ang 24h
-http://24hrs.homelinux.com/24H-avataralendadeaang/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Desenhos e Animes",🔴Avatar Korra 24h
-http://24hrs.homelinux.com/24H-avataralendadekorra/video.m3u8
-
 #EXTINF:-1 group-title="Desenhos e Animes",Retro Cartoon
-https://stmv6.voxtvhd.com.br/retrotv/retrotv/playlist.m3u8?hls_ctx=????????
+https://stmv2.painelvideocast.com.br/retrotv/retrotv/chunklist_w421570556.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Desenhos e Animes",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Desenhos e Animes",Kanade Brasil
-https://backend.energeek.cl/webtv/kanadebr/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/08/geekdot.png" group-title="Desenhos e Animes",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
