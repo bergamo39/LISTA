@@ -89,20 +89,14 @@ https://5c483b9d1019c.streamlock.net/8186/8186/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Seven Tv
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Hits TV
-https://stmv2.srvif.com/hamiltontv/hamiltontv/playlist.m3u8?hls_ctx=????????
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mr.Bean
 https://amg00627-banijay-amg00627c48-plex-us-8097.playouts.now.amagi.tv/playlist1080-p.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FilmRise Series
-https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/86f21902-e039-47dd-aefd-6ee80851cdca/5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Conexao TV
 https://pop.uniquetv.com.br/tvconexao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",AWTV
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
+https://awtv.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Profissao
 https://tv03.zas.media:1936/tvprofissao/tvprofissao/chunklist_w1171154979.m3u8
@@ -111,7 +105,7 @@ https://tv03.zas.media:1936/tvprofissao/tvprofissao/chunklist_w1171154979.m3u8
 https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Adrenalina Pura TV
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc/index.m3u8
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Adrenalina Pura TV Halloween
 https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/1080p-cc/index.m3u8
@@ -130,9 +124,6 @@ https://video10.logicahost.com.br/caipira/caipira/chunklist_w1204965167.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Gallo
 https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w483943566.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV IBT
-https://stmv2.voxtvhd.com.br/tvibtm/tvibtm/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TVES
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8?hls_ctx=????????
@@ -170,12 +161,6 @@ https://stmv2.painelvideocast.com.br/tvseries/tvseries/chunklist_w2051354015.m3u
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",MultiCanais
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w1609896093.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Gospel Movies Television
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RWTV
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Liberdade Radio e TV
 https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/chunklist_w1327356783.m3u8
 
@@ -192,7 +177,7 @@ https://streaming.cloudecast.com/hls/rederecon/index.m3u8
 https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/chunklist_w1689899411.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Nova Juarez
-https://stmv1.srvif.com/rodasdecapoeirapb/rodasdecapoeirapb/playlist.m3u8
+https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/chunklist_w703540672.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w693693915.m3u8
@@ -281,9 +266,6 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352/variant/2209
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Tv Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8?hls_ctx=????????
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Up Webtv
-https://stmv1.conectastreaming.com/tvpa4741/tvpa4741/chunklist_w1736119036.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",ABC Brasil
 https://stmv1.srvstm.com/abc7891/abc7891/playlist.m3u8
 
@@ -361,9 +343,6 @@ https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w1900108043.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Filmes e Series",Soul Cine Clube Brasil 
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Filmes e Series",Acesso Channel
-https://cdn.live.br1.jmvstream.com/webtv/tvacessochannel/playlist/chunklist.m3u8
 
 #EXTINF:-1 group-title="Filmes e Series",Viva Web
 https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
