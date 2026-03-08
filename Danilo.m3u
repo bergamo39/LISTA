@@ -97,6 +97,27 @@ https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr_720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FREETV CRIME
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RUNTIME
+https://stream.ads.ottera.tv/cl/260308d6mdvqr0jk6ccnmhhfg0/1280x720_3071200_0_f.m3u8?i=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RUNTIME ROMANCE
+https://stream.ads.ottera.tv/cl/260308d6me1avoqvqa0ulttdj0/1280x720_3071200_0_f.m3u8?i=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RUNTIME FAMILIA
+https://stream.ads.ottera.tv/cl/260308d6me0tkqief9j8mcn990/1280x720_3071200_0_f.m3u8?i=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RUNTIME CRIME
+https://stream.ads.ottera.tv/cl/260308d6me0hftpm7phh8vtu20/1280x720_3071200_0_f.m3u8?i=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RUNTIME ESPANTO
+https://stream.ads.ottera.tv/cl/260308d6me068g8l0uq9fq0po0/1280x720_3071200_0_f.m3u8?i=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RUNTIME COMEDIA
+https://stream.ads.ottera.tv/cl/260308d6mdv7gel7mg0tknn310/1280x720_3071200_0_f.m3u8?i=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RUNTIME ACAO
+https://stream.ads.ottera.tv/cl/260308d6mduj57kb6tg7c19hi0/1280x720_3071200_0_f.m3u8?i=????????
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",MBC Brasil
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w1864711596.m3u8
 
@@ -299,7 +320,7 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1093748094.m3u8
 https://stmv7.voxtvhd.com.br/clouding/clouding/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/xtremenovo.png" group-title="Filmes e Series",XTreme TV
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w1900108043.m3u8
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w856453110.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Filmes e Series",Soul Cine Clube Brasil 
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
