@@ -3,8 +3,50 @@
 ################## Filmes e Series ############################################################################################ 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",On TV
+https://live20.bozztv.com/akamaissh101/ssh101/ontv2026/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",REDE WTJMINAS
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w886189678.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",VoxTV
+https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8?hls_ctx=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",SUMMIT TV
+https://stmv2.samcast.com.br/canalsummittv/canalsummittv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Admiradores da 7 Arte
 https://s1.tvr.ovh/admiradoresda7arte/admiradoresda7arte/chunklist_w498241574.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Alianca
+https://video08.logicahost.com.br/alianca/alianca/chunklist_w1848707631.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",1980 Channel
+https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w393570471.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lPWU25z.jpg" group-title="Filmes e Series",TV Sonata
+https://video04.logicahost.com.br/isonata/isonata/chunklist_w1890548300.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",BS-TV
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w986997454.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F8ySaaL.jpg" group-title="Filmes e Series",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w519697988.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qk2f7A2.png" group-title="Filmes e Series",Caravana Play
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OyYuvG.jpg" group-title="Filmes e Series",Tv Carioca Internacional
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w1322773555.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCPP5QH.png" group-title="Filmes e Series",GLN TV
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Classicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Miura
+https://live20.bozztv.com/giatvplayout7/giatv-209397/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV IN
 https://live.tvinterior.com.br/hls/0/stream.m3u8
@@ -38,39 +80,6 @@ https://stmv1.voxplayer.com.br/smytv/smytv/chunklist_w134706433.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Radio e Tv Explosãofm
 https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/chunklist_w759330919.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",SBC Studios
-https://video01.kshost.com.br/rede1220/rede1220/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Alianca
-https://video08.logicahost.com.br/alianca/alianca/chunklist_w1848707631.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",1980 Channel
-https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w393570471.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lPWU25z.jpg" group-title="Filmes e Series",TV Sonata
-https://video04.logicahost.com.br/isonata/isonata/chunklist_w1890548300.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",BS-TV
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w986997454.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F8ySaaL.jpg" group-title="Filmes e Series",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w519697988.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qk2f7A2.png" group-title="Filmes e Series",Caravana Play
-https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2OyYuvG.jpg" group-title="Filmes e Series",Tv Carioca Internacional
-https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w1322773555.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qCPP5QH.png" group-title="Filmes e Series",GLN TV
-https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=????????
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Classicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnqQNsn.jpg" group-title="Filmes e Series",TV Clube Web
-https://5c483b9d1019c.streamlock.net/8186/8186/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Seven Tv
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
@@ -288,6 +297,9 @@ https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
 
 
 ############################################################################ Variedades
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",+maisum
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Variedades",REVIVA TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w1016207072.m3u8
