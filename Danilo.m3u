@@ -3,23 +3,20 @@
 ################## Filmes e Series ############################################################################################ 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",On TV
-https://live20.bozztv.com/akamaissh101/ssh101/ontv2026/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://clubecanais.com.br/uploads/logos/logo_266_1774043150.png" group-title="Filmes e Series",Animgeek
+https://stmv2.srvsh.com.br/daniel5336/daniel5336/chunklist_w579102621.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",REDE WTJMINAS
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w886189678.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Difusao
+https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/chunklist_w1093557900.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",VoxTV
-https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8?hls_ctx=????????
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TOP Mix TV
+https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/chunklist_w1372082488.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",SUMMIT TV
-https://stmv2.samcast.com.br/canalsummittv/canalsummittv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mega One TV
+https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8?hls_ctx=????????
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Admiradores da 7 Arte
-https://s1.tvr.ovh/admiradoresda7arte/admiradoresda7arte/chunklist_w498241574.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Alianca
-https://video08.logicahost.com.br/alianca/alianca/chunklist_w1848707631.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Dunas
+https://stmv2.samcast.com.br/wallace4828/wallace4828/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",1980 Channel
 https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w393570471.m3u8
@@ -31,7 +28,7 @@ https://video04.logicahost.com.br/isonata/isonata/chunklist_w1890548300.m3u8
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w986997454.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F8ySaaL.jpg" group-title="Filmes e Series",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w519697988.m3u8
+https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1303884652.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qk2f7A2.png" group-title="Filmes e Series",Caravana Play
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
@@ -285,11 +282,32 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8?hls_ctx=???????
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e47mO6y.jpg" group-title="Filmes e Series",Rede NGT
 https://isaocorp.cloudecast.com/ngt/mono.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Alianca
+https://video08.logicahost.com.br/alianca/alianca/chunklist_w1848707631.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",On TV
+https://live20.bozztv.com/akamaissh101/ssh101/ontv2026/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",REDE WTJMINAS
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w886189678.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",VoxTV
+https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8?hls_ctx=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",SUMMIT TV
+https://stmv2.samcast.com.br/canalsummittv/canalsummittv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Admiradores da 7 Arte
+https://s1.tvr.ovh/admiradoresda7arte/admiradoresda7arte/chunklist_w498241574.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FREETV DRAMA-Portugal
 https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr_720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FREETV CRIME-Portugal
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Retro X
+https://tvservices.fullhd-streaming.com:3963/live/tvgroupretroxtvlive.m3u8
 
 
 
@@ -297,6 +315,15 @@ https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
 
 
 ############################################################################ Variedades
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Canal Bem Melhor
+https://video01.logicahost.com.br/bemmelhor/bemmelhor/chunklist_w211883829.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Cozinhando TV
+https://sistemastr.tropicalmoonmedia.com/auth/w6BGRv9mdDfQ6YGxhtXcBpdL33WSTT_CFgB928vXbcUQ_GE3bhYv6zOfgcibC0LuDwfKAWh3EN9y30Nc-g28q43LmW55Kyq8rNPx0VsgQdoX-4QggsHu3yDPpmX38E__A7rc5t7Z4x9hydr57l_JvGh5BCU-3IR7wST14RFUwooFZsOVexr-PJ_ObsYwXBLNO74JKNXeD9iMuiOoORA5AJWpZ0dkpdQUHJQsjvO9TBNYjm4LyjFl6fkX0MLNDhfU0OQU50573UJtMo9-UqJQ8k0rtbERKuyjdM3dgyVO84MuCjp7fIAvWYpY3_1SicqyePQk4oVNeY1hwbB0nAdb7J06esEQfv9Yk_idyq5xl2u3R1r8-p05ZRFAOhmpbTboCZY5LF7ikWdGlz2lTBo1mqkHtEBZm7nTulAWeEO-xIIYQWDDGzlSidJ1jw2pFzm_W2rXxH179JdLRK6I8GCLCAflY_O-NBY1_5A3E46e5zIcvp2XOPKKVMTXR_yxdv3XNzpiHFGHtW9cP8VFjfUDb1WFgmHdNSuGuP9x55ZVmc83Iu-uGkyaI0dvxktoRL0vfo-P_dyQVqFWszek8nQ2m4uEvlToaY0CWhdRePeTngY
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Drive Channel TV
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/chunklist_w1394265848.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Variedades",+maisum
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
@@ -446,8 +473,8 @@ https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w1256109034.m3
 #EXTINF:-1 group-title="Desenhos e Animes",Tv Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_210_1768389017.png" group-title="Desenhos e Animes", TV Kidmais
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/chunklist_w1227564196.m3u8
 
 
 
@@ -455,7 +482,17 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 ### Canais de Musicas ##############################################################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://clubecanais.com.br/uploads/logos/logo_32_1767106118.png" group-title="Canais de Musicas",Lamore Rock Show WebTV
+https://a.cdni.live/rodrigo2364/rodrigo2364/chunklist_w600050102.m3u8
 
+#EXTINF:-1 tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_63_1768233707.png" group-title="Canais de Musicas",Toca Tudo TV
+https://tocatudotv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://clubecanais.com.br/uploads/logos/logo_24_1768263552.png" group-title="Canais de Musicas",TOP MIX TV POP
+https://video01.logicahost.com.br/topmixtvpopantigo5/topmixtvpopantigo5/chunklist_w1893721801.m3u8
+
+#EXTINF:-1 tvg-logo="https://playerv.logicahost.com.br/app-multi-plataforma/logo-topmixtv.png" group-title="Canais de Musicas",TOP MIX TV Sertanejo
+https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1080191871.m3u8
 
 #EXTINF:-1 tvg-logo="https://zucaplay.com/wp-content/uploads/2022/10/1660240104.71612571.jpg" group-title="Canais de Musicas",Blits TV
 https://video01.logicahost.com.br/redeblitz/redeblitz/chunklist_w885315725.m3u8
@@ -511,8 +548,7 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais de Musicas",TV Vintage
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w1259868114.m3u8
 
-#EXTINF:-1 tvg-logo="https://playerv.logicahost.com.br/app-multi-plataforma/logo-topmixtv.png" group-title="Canais de Musicas",Top Mix Tv
-https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1080191871.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Canais de Musicas",ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
