@@ -3,9 +3,6 @@
 ################## Filmes e Series ############################################################################################ 
 
 
-#EXTINF:-1 tvg-logo="https://clubecanais.com.br/uploads/logos/logo_266_1774043150.png" group-title="Filmes e Series",Animgeek
-https://stmv2.srvsh.com.br/daniel5336/daniel5336/chunklist_w579102621.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Difusao
 https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/chunklist_w1093557900.m3u8
 
@@ -53,9 +50,6 @@ https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV+NEWS
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?hls_ctx=????????
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV KTV BRASIL
-https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",ORTVWEB
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/chunklist.m3u8
@@ -407,6 +401,9 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 ####################################################################################  Desenhos e Animes 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yRijjtG.jpg" group-title="Desenhos e Animes",NBX Kids
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="https://bbc.brightcove.services/static/1627877587-5c22b1548cfe6e733e8c31f5a1bd68dd9ceb57f3.jpg" group-title="Desenhos e Animes",Mr Bean 24h
 https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-mrbeanbr-plexus/cb7f3e167b766f8f9e993563d7f940aad30f31d55d31dd3765fc009672cb4a588cbffb92e94cbd4a03e24094385631004262d519ce64669e802ef716776c69108a99b265d992026eeb86092e21a3321855e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a2cc71f02b8f541a2fbe54345c66cbfb10c2bc47914a5db5dccd71ba583d2498a478722f512c990f396d31485878c62a801b3790b01737cd4d978929e5fe382c96d3c98751aa57f3f97cb1943fd5dfc25616eba99e9ad64e51ac2fb5deb02049a7056cb1952f0069906b2f546e08cb6da50483aa5be3709802756c1f89e1732a874eee09db5e2a02b97661a74f917b1112a37d0cdca0188cc5ff1dc46d4e3394d6892d62df1ec289de56c9969ca85b3f402d9d357bf4ba448f77caf9f7fd22adc379bcf1c1e6c4c51a1956f09e7b3511d6d558f8c52d55c4ef78bcbcbe80735ce6f0c49a84eed1b543c8264373cd224f7cc6837c93e5cd17c7dda48258c47cbbd2edeaecfaa5368e2909414bf27c49d3effda4ee961355207f3d5295c4e433490cd6e1f3f74c60ab5879eaf274750a2a78dcdc15539153058075fdcacb426e9fbaa432a1fcf572977675046c676b147eb40185060996490c66f538a092621e3dd4f7e527e99c5b4c1ca96fd4dbb7bdcd8ee7b481f5c70b6270a3664b0e7da081d59cdf084f1e6d9489f5b6fe319e1a7a83947e31b7106/171/1920x1080_6046040/index.m3u8
