@@ -3,6 +3,27 @@
 ################## Filmes e Series ############################################################################################ 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Max 90
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Radio BHS 1430
+https://stmv7.voxtvhd.com.br/tvradiobhs1430/tvradiobhs1430/playlist.m3u8?hls_ctx=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Comedy Club
+https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w1090563951.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Os Detetives
+https://video11.logicahost.com.br/detetives/detetives/chunklist_w1607998558.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mundo ON
+https://stmv8.samcast.com.br/suelen5027/suelen5027/playlist.m3u8?hls_ctx=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV MAISCHETI
+https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8?hls_ctx=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Romance
+https://stmv2.painelvideocast.com.br/eventos1/eventos1/chunklist_w1300289347.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV CRUZEIRO DO BRASIL
 https://s1.tvr.ovh/video69413/video69413/chunklist_w704248118.m3u8
 
