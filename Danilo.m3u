@@ -2,6 +2,20 @@
 
 ################## Filmes e Series ############################################################################################ 
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CHRISTMAS TV
+https://stmv2.painelvideocast.com.br/christmastv/christmastv/chunklist_w27108863.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Nosso Play TV
+https://stmv2.srvif.com/channel2/channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Sessao TRASH
+https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Viki TV
+https://stmv2.srvif.com/webtv001/webtv001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cine Brasil
+https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/chunklist_w690634927.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Max 90
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/chunklist.m3u8
@@ -431,6 +445,8 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 ####################################################################################  Desenhos e Animes 
 
+#EXTINF:-1 group-title="Desenhos e Animes",TV Kid+
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/chunklist_w724226165.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yRijjtG.jpg" group-title="Desenhos e Animes",NBX Kids
 https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8?hls_ctx=????????
