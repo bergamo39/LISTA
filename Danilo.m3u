@@ -2,6 +2,10 @@
 
 ################## Filmes e Series ############################################################################################ 
 
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CinePIX
+https://stream.ads.ottera.tv/cl/260621d8s6pponf42s738shge0/1920x1080_6046040_3_f.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CHRISTMAS TV
 https://stmv2.painelvideocast.com.br/christmastv/christmastv/chunklist_w27108863.m3u8
 
@@ -40,9 +44,6 @@ https://stmv2.painelvideocast.com.br/eventos1/eventos1/chunklist_w1300289347.m3u
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV CRUZEIRO DO BRASIL
 https://s1.tvr.ovh/video69413/video69413/chunklist_w704248118.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",PORTO ALEGRE 24 HORAS TV
-https://rtisoluctions.com.br/hls/test_src.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV LatinaSAT
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
@@ -209,9 +210,6 @@ https://video01.logicahost.com.br/canalaugetv/canalaugetv/chunklist_w1384993038.
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Pompeia
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8?hls_ctx=936p5o01
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",ORTV WEB
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
@@ -353,6 +351,9 @@ https://tvservices.fullhd-streaming.com:3963/live/tvgroupretroxtvlive.m3u8
 
 
 ############################################################################ Variedades
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",PORTO ALEGRE 24 HORAS TV
+https://rtisoluctions.com.br/hls/test_src.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Canal Bem Melhor
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/chunklist_w211883829.m3u8
