@@ -251,9 +251,6 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede Mundo
 https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist_w1532010601.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Filmes e Series",BangBang
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/663b9dc7cb3ea10008f1a0ce/3321280/playlist.m3u8?sid=6d48d200-768c-11f1-a048-c28186ca0289&deviceId=82ee6192-397e-4805-98f0-52822bd5fab7&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjM3MjMzZGVkLTc1NTgtNDM5Ny04MDJlLTJhZjkwNDFmY2ZiOCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2ZDQ4ZDIwMC03NjhjLTExZjEtYTA0OC1jMjgxODZjYTAyODkiLCJjbGllbnRJUCI6IjI4MDQ6MTRjOjU3ODA6ODljZDoyMGI0OjIxMjU6YzYxMjo2NWYzIiwiY2l0eSI6IkJhdXJ1IiwicG9zdGFsQ29kZSI6IjE3MDEzLTYyMCIsImNvdW50cnkiOiJCUiIsImRtYSI6NzYxMTYsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjIuMzE5OTk5Njk0ODI0MjIsImRldmljZUxvbiI6LTQ5LjA0OTk5OTIzNzA2MDU1LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxNDkuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjIyLjAtYmE5OTMxOGFmZTUwZGUzYzhhMDIwMjFmNGM5MmZkNTJmMmM0N2EwMCIsImNsaWVudElEIjoiODJlZTYxOTItMzk3ZS00ODA1LTk4ZjAtNTI4MjJiZDVmYWI3IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvU2FvX1BhdWxvIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifSwic3RpdGNoZXJIbHNOZ1ZsbCI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZ1ZvZCI6eyJlbmFibGVkIjp0cnVlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiODJlZTYxOTItMzk3ZS00ODA1LTk4ZjAtNTI4MjJiZDVmYWI3IiwiZndWY0lEMkNvcHBhIjoiODJlZTYxOTItMzk3ZS00ODA1LTk4ZjAtNTI4MjJiZDVmYWI3IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI4MmVlNjE5Mi0zOTdlLTQ4MDUtOThmMC01MjgyMmJkNWZhYjciLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDE1LDEwMDIwLDEwMDIxLDEwMDIzLDEwMDA5LDEwMDEzLDEwMDE2LDEwMDAwLDEwMDE0In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzgzMDQ4MDkyNjE4LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6T0RKbFpUWXhPVEl0TXprM1pTMDBPREExTFRrNFpqQXROVEk0TWpKaVpEVm1ZV0kzIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4MzEzNDQ5MiwiaWF0IjoxNzgzMDQ4MDkyLCJqdGkiOiI5MTIyMWRlYS1hZDYyLTQ0YTMtOGI0MS00Y2I0NzY2NzMxZmUifQ.Y53awtH3jt_aWodaRTTJIrj2lDRj7QHluIN8k1aJ2HM
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDC5VzU.png" group-title="Filmes e Series",Grjngo Filmes de Faroeste
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 
@@ -267,10 +264,10 @@ https://stmv2.painelvideocast.com.br/movies1/movies1/chunklist_w974889218.m3u8
 https://stmv7.voxtvhd.com.br/clouding/clouding/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/xtremenovo.png" group-title="Filmes e Series",XTreme TV
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w856453110.m3u8
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes e Series",Viva Web
-https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
+https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Filmes e Series",MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -296,9 +293,6 @@ https://streaming.cloudecast.com/hls/rederecon/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV WTJMINAS
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w1256109034.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede TV Sul
-https://5c483b9d1019c.streamlock.net/redetvsul/redetvsul/chunklist_w913576482.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lbZk3Pc.jpg" group-title="Filmes e Series",Rede TV Mais
 https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w544271297.m3u8
 
@@ -311,9 +305,6 @@ https://isaocorp.cloudecast.com/ngt/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Alianca
 https://video08.logicahost.com.br/alianca/alianca/chunklist_w1848707631.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",On TV
-https://live20.bozztv.com/akamaissh101/ssh101/ontv2026/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",REDE WTJMINAS
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w886189678.m3u8
 
@@ -322,19 +313,6 @@ https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",SUMMIT TV
 https://stmv2.samcast.com.br/canalsummittv/canalsummittv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Admiradores da 7 Arte
-https://s1.tvr.ovh/admiradoresda7arte/admiradoresda7arte/chunklist_w498241574.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FREETV DRAMA-Portugal
-https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr_720p.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",FREETV CRIME-Portugal
-https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Retro X
-https://tvservices.fullhd-streaming.com:3963/live/tvgroupretroxtvlive.m3u8
-
 
 
 
