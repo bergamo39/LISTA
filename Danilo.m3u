@@ -32,6 +32,9 @@ https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Difusao
 https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/chunklist_w1093557900.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Somos TV
+https://srv3.zcast.com.br/somostv/somostv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Play Votu TV
 https://stmv5.samcast.com.br/ronaldopaszko6809/ronaldopaszko6809/playlist.m3u8?hls_ctx=????????
 
