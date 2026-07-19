@@ -17,9 +17,6 @@ https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1423801388.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qk2f7A2.png" group-title="Filmes e Series",Caravana Play
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2OyYuvG.jpg" group-title="Filmes e Series",Tv Carioca Internacional
-https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w1322773555.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCPP5QH.png" group-title="Filmes e Series",GLN TV
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=????????
 
@@ -89,9 +86,6 @@ https://stmv2.samcast.com.br/wallace4828/wallace4828/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Miura
 https://live20.bozztv.com/giatvplayout7/giatv-209397/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV IN
-https://live.tvinterior.com.br/hls/0/stream.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV MZ
 https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8?hls_ctx=????????
 
@@ -99,9 +93,6 @@ https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8?hls_ctx=????????
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",ORTVWEB
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",ORTVWEB 2
 https://tv.ortv.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",MIAMI VICE E CONVIDADOS
@@ -263,8 +254,8 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x47gbfK.png" group-title="Filmes e Series",Channel 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/chunklist_w974889218.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede Clouding
-https://stmv7.voxtvhd.com.br/clouding/clouding/playlist.m3u8?hls_ctx=????????
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1016484059.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/xtremenovo.png" group-title="Filmes e Series",XTreme TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
@@ -290,9 +281,6 @@ https://stmv6.voxtvhd.com.br/lupercio5913/lupercio5913/playlist.m3u8?hls_ctx=???
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Goitaca
 https://video01.brascast.com/david7639/david7639/playlist.m3u8?hls_ctx=????????
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede Recon
-https://streaming.cloudecast.com/hls/rederecon/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV WTJMINAS
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w1256109034.m3u8
 
@@ -308,14 +296,14 @@ https://isaocorp.cloudecast.com/ngt/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Alianca
 https://video08.logicahost.com.br/alianca/alianca/chunklist_w1848707631.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",REDE WTJMINAS
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w886189678.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",VoxTV
 https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",SUMMIT TV
 https://stmv2.samcast.com.br/canalsummittv/canalsummittv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OyYuvG.jpg" group-title="Filmes e Series",Tv Carioca Internacional
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w1322773555.m3u8
 
 
 
@@ -329,6 +317,12 @@ https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8?hls_ctx
 
 #EXTINF:-1 tvg-logo="" group-title="Variedades",PORTO ALEGRE 24 HORAS TV
 https://rtisoluctions.com.br/hls/test_src.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",TV Historia
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w231649483.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",MVerso
+https://stmv.webtvninjas.com.br/gustavo7599/gustavo7599/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Variedades",Canal Bem Melhor
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/chunklist_w211883829.m3u8
@@ -635,9 +629,4 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 
 
 
-############################ TESTE ######################################
-
-
-#EXTINF:-1 tvg-logo="" group-title="TESTE",OS EMBALOS DE SABADO A NOITE-1977
-https://stmv1.srvif.com:1443/play.php?login=classique&video=DRIVER/OS%20EMBALOS%20DE%20SABADO%20A%20NOITE-1977.mp4
 
