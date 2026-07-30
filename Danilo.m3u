@@ -369,9 +369,6 @@ https://cc-4e6doav3fdfaw.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWfmUwV.png" group-title="Variedades",People Are Awesome
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jlhvLJb.png" group-title="Variedades",Motorvision FHD
-https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IE8xwt4.png" group-title="Variedades",Trace Brasil
 https://trace-brazuca-lg-br.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-brazuca-lg-br/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
@@ -545,14 +542,36 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 
 #####################################################################################  Esportes
 
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes",MAVTV Brasil
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes",SFT Combat
+https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes",XFC TV
+https://stream-us-east-1.getpublica.com/cl/260730d9ltvgthl7kc73afm8h0/1280x720_3573101_1_f.m3u8?i=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes",RS News
+https://video07.logicahost.com.br/rsnews01/rsnews01/chunklist_w1113784743.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes",TV CAR Multimarcas
+https://video11.logicahost.com.br/tvcar/tvcar/chunklist_w564484327.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Motorvision
-https://stream.ads.ottera.tv/cl/260709d982qu3rfrnc7396j7u0/1920x1080_4787201_4_f.m3u8
+https://stream.ads.ottera.tv/cl/260730d9ltt392qd4s73bu1hqg/1920x1080_4787201_4_f.m3u8?i=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes",N Sports
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Racer Brasil
-https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8 
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Esportes",Ge TV HD (TCL TV)
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/720p-cc/index.m3u8
