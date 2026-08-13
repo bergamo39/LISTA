@@ -12,7 +12,7 @@ https://video04.logicahost.com.br/isonata/isonata/chunklist_w1890548300.m3u8
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w1762862992.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F8ySaaL.jpg" group-title="Filmes e Series",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1423801388.m3u8
+https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w717692047.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qk2f7A2.png" group-title="Filmes e Series",Caravana Play
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
@@ -32,8 +32,11 @@ https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/chunklist_w1093557900.m3
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Somos TV
 https://srv3.zcast.com.br/somostv/somostv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Play Votu TV
-https://stmv5.samcast.com.br/ronaldopaszko6809/ronaldopaszko6809/playlist.m3u8?hls_ctx=????????
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RBTI Movies
+https://tv.rbti.tv.br/rbti2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RBTI TV
+https://tv.rbti.tv.br/rbti1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CHRISTMAS TV
 https://stmv2.painelvideocast.com.br/christmastv/christmastv/chunklist_w27108863.m3u8
@@ -72,7 +75,7 @@ https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8?hls_ctx=?????
 https://stmv2.painelvideocast.com.br/eventos1/eventos1/chunklist_w1300289347.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV CRUZEIRO DO BRASIL
-https://s1.tvr.ovh/video69413/video69413/chunklist_w704248118.m3u8
+https://tv-cruzeiro.tvr.ovh/video34577/video34577/chunklist_w966814655.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TOP Mix TV
 https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/chunklist_w1372082488.m3u8
@@ -82,9 +85,6 @@ https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Dunas
 https://stmv2.samcast.com.br/wallace4828/wallace4828/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Miura
-https://live20.bozztv.com/giatvplayout7/giatv-209397/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV MZ
 https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8?hls_ctx=????????
@@ -143,17 +143,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV NBT
 https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",WEB TV CR
-https://stmv1.paineldevideo.com.br/teste/teste/chunklist_w2009426460.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Classique TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",MultiCanais
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w1609896093.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Liberdade Radio e TV
-https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/chunklist_w1327356783.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Viva Web TV
 https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8?hls_ctx=????????
@@ -175,9 +169,6 @@ https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/c
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Rio Madeira
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8?hls_ctx=459630b9
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",SWT
-https://stmv8.samcast.com.br/edgard8922/edgard8922/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV MAIS BRASIL
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=????????
