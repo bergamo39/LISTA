@@ -2,6 +2,37 @@
 
 ################## Filmes e Series ############################################################################################ 
 
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Romance
+https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Familia
+https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Cine Espanto
+https://run-th-br.otteravision.com/run/th_br/th_br_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Comedia
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Crime
+https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Acao
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Chanchadas
+https://stmv2.painelvideocast.com.br/chanchadas/chanchadas/chunklist_w242701329.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Z Nation
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/0ff4ec49-6988-4bb6-a104-ac3e906d4949/5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mr. Bean
+https://amg00627-banijay-amg00627c48-plex-us-8097.playouts.now.amagi.tv/playlist1080-p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",1970 Channel
+https://stmv2.painelvideocast.com.br/channel70/channel70/chunklist_w1816068097.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",1980 Channel
 https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w393570471.m3u8
 
@@ -25,6 +56,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV LatinaSAT
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",ONDA 1 TV
+https://stmv7.voxtvhd.com.br/celso6243/celso6243/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",JXS TV
+https://stmv7.voxtvhd.com.br/jxstv/jxstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Difusao
 https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/chunklist_w1093557900.m3u8
@@ -136,6 +173,9 @@ https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8?hls_ctx=?????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",MBC Brasil
 https://stmv.webtvninjas.com.br/mcbbrasil/mcbbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Missao Impossivel
+https://stmv2.painelvideocast.com.br/miserie/miserie/chunklist_w1460722167.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Filmes e Series",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
@@ -422,7 +462,7 @@ https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/ts-us-w2
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 #EXTINF:-1 group-title="Desenhos e Animes",Retro Cartoon
-https://stmv2.painelvideocast.com.br/retrotv/retrotv/chunklist_w421570556.m3u8
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w962224343.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Desenhos e Animes",Gospel Cartoon
 https://stmv2.srvif.com/rcartoon/rcartoon/playlist.m3u8
