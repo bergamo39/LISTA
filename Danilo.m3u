@@ -3,32 +3,6 @@
 ################## Filmes e Series ############################################################################################ 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Romance
-https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Familia
-https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Cine Espanto
-https://run-th-br.otteravision.com/run/th_br/th_br_720.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Comedia
-https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Crime
-https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Acao
-https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Chanchadas
-https://stmv2.painelvideocast.com.br/chanchadas/chanchadas/chunklist_w242701329.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Z Nation
-https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/0ff4ec49-6988-4bb6-a104-ac3e906d4949/5.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mr. Bean
-https://amg00627-banijay-amg00627c48-plex-us-8097.playouts.now.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",1970 Channel
 https://stmv2.painelvideocast.com.br/channel70/channel70/chunklist_w1816068097.m3u8
@@ -52,7 +26,7 @@ https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Classicos do Cinema
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+https://srv3.zcast.com.br/classicosdocinema/classicosdocinema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV LatinaSAT
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
@@ -66,14 +40,35 @@ https://stmv7.voxtvhd.com.br/jxstv/jxstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Difusao
 https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/chunklist_w1093557900.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Somos TV
-https://srv3.zcast.com.br/somostv/somostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Romance
+https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Familia
+https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Cine Espanto
+https://run-th-br.otteravision.com/run/th_br/th_br_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Comedia
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Crime
+https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Acao
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Chanchadas
+https://stmv2.painelvideocast.com.br/chanchadas/chanchadas/chunklist_w242701329.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RBTI Movies
 https://tv.rbti.tv.br/rbti2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RBTI TV
 https://tv.rbti.tv.br/rbti1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mr. Bean
+https://amg00627-banijay-amg00627c48-plex-us-8097.playouts.now.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CHRISTMAS TV
 https://stmv2.painelvideocast.com.br/christmastv/christmastv/chunklist_w27108863.m3u8
@@ -152,9 +147,6 @@ https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/chunklist_w759330919.m
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Seven Tv
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mr.Bean
-https://amg00627-banijay-amg00627c48-plex-us-8097.playouts.now.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
