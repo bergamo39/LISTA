@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+
+
+
 ################## Filmes e Series ############################################################################################ 
 
 
@@ -31,7 +35,7 @@ https://srv3.zcast.com.br/classicosdocinema/classicosdocinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV LatinaSAT
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",ONDA 1 TV
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Onda 1 TV
 https://stmv7.voxtvhd.com.br/celso6243/celso6243/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",JXS TV
@@ -70,7 +74,7 @@ https://tv.rbti.tv.br/rbti1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mr. Bean
 https://amg00627-banijay-amg00627c48-plex-us-8097.playouts.now.amagi.tv/playlist1080-p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CHRISTMAS TV
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Christmas TV
 https://stmv2.painelvideocast.com.br/christmastv/christmastv/chunklist_w27108863.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Nosso Play TV
@@ -100,13 +104,10 @@ https://video11.logicahost.com.br/detetives/detetives/chunklist_w1607998558.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mundo ON
 https://stmv8.samcast.com.br/suelen5027/suelen5027/playlist.m3u8?hls_ctx=????????
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV MAISCHETI
-https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8?hls_ctx=????????
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Romance
 https://stmv2.painelvideocast.com.br/eventos1/eventos1/chunklist_w1300289347.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV CRUZEIRO DO BRASIL
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Cruzeiro do Brasil
 https://tv-cruzeiro.tvr.ovh/video34577/video34577/chunklist_w966814655.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TOP Mix TV
@@ -127,22 +128,22 @@ https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?hls_ctx=????????
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",ORTVWEB
 https://tv.ortv.com.br/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",MIAMI VICE E CONVIDADOS
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Miami Vice e Convidados
 https://video05.logicahost.com.br/miamivice/miamivice/chunklist_w1895026777.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",NBX TV
 https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8?hls_ctx=????????
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",NBX TV PIPOCA
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",NBX TV Pipoca
 https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8?hls_ctx=????????
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",CINE CATASTROFE
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cine Catastrofe
 https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/chunklist_w650530322.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TVCEI
 https://stmv1.voxplayer.com.br/smytv/smytv/chunklist_w134706433.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Radio e Tv Explosãofm
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Radio e Tv Explosão FM
 https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/chunklist_w759330919.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Seven Tv
@@ -159,9 +160,6 @@ https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/inde
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Adrenalina Pura TV Halloween
 https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TVES
-https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8?hls_ctx=????????
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",MBC Brasil
 https://stmv.webtvninjas.com.br/mcbbrasil/mcbbrasil/playlist.m3u8
@@ -202,10 +200,10 @@ https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/c
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Rio Madeira
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8?hls_ctx=459630b9
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV MAIS BRASIL
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Mais Brasil
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=????????
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV SANTA
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Santa
 https://video04.logicahost.com.br/tvsanta/tvsanta/chunklist_w431328913.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Explosao FM
@@ -226,7 +224,7 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV ONE
 https://video02.logicahost.com.br/tvone/tvone/chunklist_w466408316.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV CHANNEL NETWORK
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Channel Network
 https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w1522789410.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Cindie Lite
