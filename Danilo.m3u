@@ -12,6 +12,9 @@ http://170.83.16.50/AeE/index.m3u8
 #EXTINF:-1 tvg-id="AXN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Filmes e Series",AXN
 http://170.83.16.50/AXN/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",WESTERN BOUND
+https://ime-wbpo.otteravision.com/ime/wbpo/wbpo1080p.m3u8
+
 #EXTINF:-1 tvg-id="TVClube.br@SD" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Filmes e Series",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
@@ -590,6 +593,12 @@ https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
 
 
 ### Canais de Musicas ########################################################################
+
+#EXTINF:-1 tvg-logo="" group-title="Canais de Musicas",RADIO E TV CLASSICOS FM
+https://v01.taaqui.org/joel/joel/chunklist_w1898072841.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais de Musicas",VCLASSIC TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w225481271.m3u8
 
 #EXTINF:-1 tvg-logo="https://clubecanais.com.br/uploads/logos/logo_32_1767106118.png" group-title="Canais de Musicas",LAMORE ROCK SHOW WEBTV
 https://a.cdni.live/rodrigo2364/rodrigo2364/chunklist_w600050102.m3u8
