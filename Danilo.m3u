@@ -12,8 +12,15 @@ http://170.83.16.50/AeE/index.m3u8
 #EXTINF:-1 tvg-id="AXN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Filmes e Series",AXN
 http://170.83.16.50/AXN/index.m3u8
 
-#EXTINF:-1 tvg-id="TVClube.br@SD" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Filmes e Series",TV Clube
+#EXTINF:-1 tvg-id="TVClube.br@SD" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Filmes e Series",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RBATV
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede TV Manchete Oficial
+https://stmv3.voxtvhd.com.br/tvrtv/tvrtv/playlist.m3u8
 
 
 
