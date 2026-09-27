@@ -18,14 +18,8 @@ https://ime-wbpo.otteravision.com/ime/wbpo/wbpo1080p.m3u8
 #EXTINF:-1 tvg-id="TVClube.br@SD" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Filmes e Series",Clube Web TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RBATV
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede TV Manchete Oficial
 https://stmv3.voxtvhd.com.br/tvrtv/tvrtv/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",1970 Channel
 https://stmv2.painelvideocast.com.br/channel70/channel70/chunklist_w1816068097.m3u8
@@ -89,9 +83,6 @@ https://tv.rbti.tv.br/rbti2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RBTI TV
 https://tv.rbti.tv.br/rbti1/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Z Nation
-https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/fdc8c960-d808-42df-8489-019f8f96e02d/5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mr. Bean
 https://amg00627-banijay-amg00627c48-plex-us-8097.playouts.now.amagi.tv/playlist1080-p.m3u8
@@ -351,6 +342,9 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Filmes e Series",TV Natal
 http://185.228.163.146:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RBATV
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Runtime Romance
 https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
