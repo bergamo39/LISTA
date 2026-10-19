@@ -12,13 +12,19 @@ http://170.83.16.50/AeE/index.m3u8
 #EXTINF:-1 tvg-id="AXN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Filmes e Series",AXN
 http://170.83.16.50/AXN/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Tela Retro
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",XTV
+https://stmv8.samcast.com.br/cleusa3086/cleusa3086/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Estrela do Mar
+https://video01.brascast.com/c2436014/c2436014/playlist.m3u8?hls_ctx=????????
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede Classic
 https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Tv 131 Virtual
 https://stmv2.painelvideocast.com.br/5681/5681/chunklist_w1268274331.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Brks TV
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",BRKS TV
 https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",WESTERN BOUND
