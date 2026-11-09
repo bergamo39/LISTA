@@ -21,9 +21,6 @@ https://video01.brascast.com/c2436014/c2436014/playlist.m3u8?hls_ctx=????????
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede Classic
 https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Tv 131 Virtual
-https://stmv2.painelvideocast.com.br/5681/5681/chunklist_w1268274331.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",BRKS TV
 https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
 
@@ -98,6 +95,9 @@ https://tv.rbti.tv.br/rbti2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",RBTI TV
 https://tv.rbti.tv.br/rbti1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mr. Bean
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/720p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Mr. Bean
 https://amg00627-banijay-amg00627c48-plex-us-8097.playouts.now.amagi.tv/playlist1080-p.m3u8
