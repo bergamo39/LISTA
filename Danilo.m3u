@@ -15,11 +15,11 @@ http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",XTV
 https://stmv8.samcast.com.br/cleusa3086/cleusa3086/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",IBT
+https://stmv5.voxtvhd.com.br/tvibt2026/tvibt2026/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",TV Estrela do Mar
 https://video01.brascast.com/c2436014/c2436014/playlist.m3u8?hls_ctx=????????
-
-#EXTINF:-1 tvg-logo="" group-title="Filmes e Series",Rede Classic
-https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",BRKS TV
 https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
@@ -37,7 +37,7 @@ https://stmv3.voxtvhd.com.br/tvrtv/tvrtv/playlist.m3u8
 https://stmv2.painelvideocast.com.br/channel70/channel70/chunklist_w1816068097.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Filmes e Series",1980 Channel
-https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w393570471.m3u8
+https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lPWU25z.jpg" group-title="Filmes e Series",TV Sonata
 https://video04.logicahost.com.br/isonata/isonata/chunklist_w1890548300.m3u8
